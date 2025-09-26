@@ -26,6 +26,18 @@ header h1{
     margin: 0;
 }
 
+.hist-ac{
+    background-color: rgb(31, 48, 31);
+    height: 300px;
+}
+
+img-brasao-ac{
+    position: relative;
+    float: left;
+    margin-right: 15px;
+}
+
+
 nav{
     background-color: rgb(117, 163, 127);
     display: flex;
